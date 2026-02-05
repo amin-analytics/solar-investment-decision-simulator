@@ -83,6 +83,11 @@ This project is a portfolio demonstration of investment analytics capability, no
 ## Screenshots
 Screenshots of all pages are uploaded together as a PDF file for convenience. 
 
+## 🔁 Direct Power BI Access (Optional)
+
+If you prefer to open the report directly in Power BI Service:
+https://app.powerbi.com/view?r=eyJrIjoiYWRmZGJhNzYtMjkyNi00NTM1LWE3M2EtNWQ5MzA0ZjdiZDAwIiwidCI6IjJhMGRlOTE5LTRmNzUtNDhiYy1hMDJhLWUwMzRhMmM1MDgyMSIsImMiOjh9&pageName=cf92beb5aba64e022e3e
+
 ## PBIX File Access
 The Power BI (.pbix) file is available upon request for hiring managers and reviewers.
 
