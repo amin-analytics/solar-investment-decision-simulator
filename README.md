@@ -1,10 +1,14 @@
 # 200 MW Utility-Scale Solar Investment Decision Simulator
-## Netherlands — 2026 Outlook
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue)](https://bdcerts.com/projects/solar-investment)
 
 ## Project Overview
-Investment-grade Power BI model simulating a 200 MW utility-scale solar project under Dutch market assumptions.
+Investment-grade Power BI model simulating a 200 MW utility-scale solar project under Dutch market assumptions (2026 Outlook).
 
 This project demonstrates portfolio-level decision analytics aligned with infrastructure investment committee practices.
+## 🔗 Live Interactive Dashboard
+
+👉 **View Live Power BI Report (Web Version)**  
+[https://bdcerts.com/projects/solar-investment](https://bdcerts.com/projects/solar-investment)
 
 ## Project Objectives
 Build a transparent screening model that answers:
