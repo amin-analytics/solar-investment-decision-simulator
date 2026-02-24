@@ -75,7 +75,6 @@ Synthetic but NL-comparable assumptions are used:
 ## Known Limitations (Intentional)
 - No debt financing layer
 - No subsidy modeling
-- No curtailment forecasting
 - No merchant price stochastic modeling
 - Screening model, not financial close model
 
